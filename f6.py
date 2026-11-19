@@ -1,0 +1,1 @@
+print("Hello from f6.py")
